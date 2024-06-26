@@ -1,0 +1,624 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmorderinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmorderinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmcustomerdgv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmcustomerdgv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmmdimainscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmmdimainscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\publicparam.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:publicparam.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|c:\\users\\ender\\desktop\\cis\\visual programming\\projects\\computech\\frmorderinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmorderinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmorderrecipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmorderrecipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmneworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmneworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmmdimainscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmmdimainscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmorderrecipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmorderrecipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmcustomerdgv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmcustomerdgv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmitemsinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmitemsinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmusersinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmusersinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmneworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmneworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmadditem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmadditem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdatecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdatecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmitemsinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmitemsinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmadditem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmadditem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdateitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdateitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdateuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdateuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdateitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdateitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmdeleteitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmdeleteitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmdeleteitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmdeleteitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdatecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdatecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmcustomerinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmcustomerinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmaddnewcustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmaddnewcustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmcustomerinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmcustomerinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmaddnewcustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmaddnewcustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmusersinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmusersinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmdeletecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmdeletecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmdeletecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmdeletecustomer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmaddnewuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmaddnewuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmupdateuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmupdateuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmsplashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmsplashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmaddnewuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmaddnewuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmsplashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFFEF741-33DA-4CCC-B75F-77220D3F49C6}|CompuTech.vbproj|solutionrelative:frmsplashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicParam.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\PublicParam.vb",
+              "RelativeDocumentMoniker": "PublicParam.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\PublicParam.vb",
+              "RelativeToolTip": "PublicParam.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T18:57:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMdiMainScreen.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmMdiMainScreen.vb",
+              "RelativeDocumentMoniker": "frmMdiMainScreen.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmMdiMainScreen.vb",
+              "RelativeToolTip": "frmMdiMainScreen.vb",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAjwFcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCustomerDGV.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerDGV.vb",
+              "RelativeDocumentMoniker": "frmCustomerDGV.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerDGV.vb",
+              "RelativeToolTip": "frmCustomerDGV.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T23:51:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAddItem.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddItem.vb",
+              "RelativeDocumentMoniker": "frmAddItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddItem.vb",
+              "RelativeToolTip": "frmAddItem.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T01:02:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmUpdateItem.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateItem.vb",
+              "RelativeDocumentMoniker": "frmUpdateItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateItem.vb",
+              "RelativeToolTip": "frmUpdateItem.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T16:21:24.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmItemsInfo.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmItemsInfo.vb",
+              "RelativeDocumentMoniker": "frmItemsInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmItemsInfo.vb",
+              "RelativeToolTip": "frmItemsInfo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T00:19:12.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNewOrder.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmNewOrder.vb",
+              "RelativeDocumentMoniker": "frmNewOrder.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmNewOrder.vb",
+              "RelativeToolTip": "frmNewOrder.vb",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwGAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T16:50:39.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOrderRecipt.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderRecipt.vb",
+              "RelativeDocumentMoniker": "frmOrderRecipt.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderRecipt.vb",
+              "RelativeToolTip": "frmOrderRecipt.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T19:21:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrderInfo.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderInfo.vb",
+              "RelativeDocumentMoniker": "frmOrderInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderInfo.vb",
+              "RelativeToolTip": "frmOrderInfo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T23:17:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmUpdateUser.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateUser.vb",
+              "RelativeDocumentMoniker": "frmUpdateUser.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateUser.vb",
+              "RelativeToolTip": "frmUpdateUser.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T22:51:40.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDeleteItem.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteItem.vb",
+              "RelativeDocumentMoniker": "frmDeleteItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteItem.vb",
+              "RelativeToolTip": "frmDeleteItem.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T17:17:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmUpdateCustomer.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateCustomer.vb",
+              "RelativeDocumentMoniker": "frmUpdateCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateCustomer.vb",
+              "RelativeToolTip": "frmUpdateCustomer.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwHwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-23T23:27:56.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmAddNewCustomer.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewCustomer.vb",
+              "RelativeDocumentMoniker": "frmAddNewCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewCustomer.vb",
+              "RelativeToolTip": "frmAddNewCustomer.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmUsersInfo.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUsersInfo.vb",
+              "RelativeDocumentMoniker": "frmUsersInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUsersInfo.vb",
+              "RelativeToolTip": "frmUsersInfo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T17:08:17.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCustomerInfo.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerInfo.vb",
+              "RelativeDocumentMoniker": "frmCustomerInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerInfo.vb",
+              "RelativeToolTip": "frmCustomerInfo.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T19:52:52.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmDeleteCustomer.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteCustomer.vb",
+              "RelativeDocumentMoniker": "frmDeleteCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteCustomer.vb",
+              "RelativeToolTip": "frmDeleteCustomer.vb",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwGsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmSplashScreen.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmSplashScreen.vb",
+              "RelativeDocumentMoniker": "frmSplashScreen.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmSplashScreen.vb",
+              "RelativeToolTip": "frmSplashScreen.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmAddNewUser.vb",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewUser.vb",
+              "RelativeDocumentMoniker": "frmAddNewUser.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewUser.vb",
+              "RelativeToolTip": "frmAddNewUser.vb",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:21.208Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9d5380ca-4d72-4cf4-8412-f51a1de3f07a",
+        "Display": 1,
+        "X": -323,
+        "Y": 125,
+        "Width": 1553,
+        "Height": 792,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmOrderRecipt.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderRecipt.vb",
+              "RelativeDocumentMoniker": "frmOrderRecipt.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderRecipt.vb [Design]",
+              "RelativeToolTip": "frmOrderRecipt.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T18:39:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmNewOrder.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmNewOrder.vb",
+              "RelativeDocumentMoniker": "frmNewOrder.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmNewOrder.vb [Design]",
+              "RelativeToolTip": "frmNewOrder.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-26T17:14:56.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmUsersInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUsersInfo.vb",
+              "RelativeDocumentMoniker": "frmUsersInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUsersInfo.vb [Design]",
+              "RelativeToolTip": "frmUsersInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T16:33:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCustomerDGV.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerDGV.vb",
+              "RelativeDocumentMoniker": "frmCustomerDGV.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerDGV.vb [Design]",
+              "RelativeToolTip": "frmCustomerDGV.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T23:41:54.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmOrderInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderInfo.vb",
+              "RelativeDocumentMoniker": "frmOrderInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmOrderInfo.vb [Design]",
+              "RelativeToolTip": "frmOrderInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T23:03:56.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMdiMainScreen.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmMdiMainScreen.vb",
+              "RelativeDocumentMoniker": "frmMdiMainScreen.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmMdiMainScreen.vb [Design]",
+              "RelativeToolTip": "frmMdiMainScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:24.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAddItem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddItem.vb",
+              "RelativeDocumentMoniker": "frmAddItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddItem.vb [Design]",
+              "RelativeToolTip": "frmAddItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T00:58:00.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmUpdateCustomer.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateCustomer.vb",
+              "RelativeDocumentMoniker": "frmUpdateCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateCustomer.vb [Design]",
+              "RelativeToolTip": "frmUpdateCustomer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T22:48:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmItemsInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmItemsInfo.vb",
+              "RelativeDocumentMoniker": "frmItemsInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmItemsInfo.vb [Design]",
+              "RelativeToolTip": "frmItemsInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T00:10:24.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmUpdateItem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateItem.vb",
+              "RelativeDocumentMoniker": "frmUpdateItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateItem.vb [Design]",
+              "RelativeToolTip": "frmUpdateItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T15:59:07.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDeleteItem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteItem.vb",
+              "RelativeDocumentMoniker": "frmDeleteItem.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteItem.vb [Design]",
+              "RelativeToolTip": "frmDeleteItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T17:14:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmCustomerInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerInfo.vb",
+              "RelativeDocumentMoniker": "frmCustomerInfo.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmCustomerInfo.vb [Design]",
+              "RelativeToolTip": "frmCustomerInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T19:49:40.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddNewCustomer.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewCustomer.vb",
+              "RelativeDocumentMoniker": "frmAddNewCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewCustomer.vb [Design]",
+              "RelativeToolTip": "frmAddNewCustomer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:23.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmDeleteCustomer.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteCustomer.vb",
+              "RelativeDocumentMoniker": "frmDeleteCustomer.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmDeleteCustomer.vb [Design]",
+              "RelativeToolTip": "frmDeleteCustomer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:23.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmAddNewUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewUser.vb",
+              "RelativeDocumentMoniker": "frmAddNewUser.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmAddNewUser.vb [Design]",
+              "RelativeToolTip": "frmAddNewUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:23.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmUpdateUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateUser.vb",
+              "RelativeDocumentMoniker": "frmUpdateUser.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmUpdateUser.vb [Design]",
+              "RelativeToolTip": "frmUpdateUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T22:18:17.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:23.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmSplashScreen.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmSplashScreen.vb",
+              "RelativeDocumentMoniker": "frmSplashScreen.vb",
+              "ToolTip": "C:\\Users\\ender\\Desktop\\CIS\\Visual Programming\\Projects\\CompuTech\\frmSplashScreen.vb [Design]",
+              "RelativeToolTip": "frmSplashScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T17:33:24.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddNewCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomerDGV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomerInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeleteCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeleteItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmItemsInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMdiMainScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNewOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOrderInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOrderRecipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUsersInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
