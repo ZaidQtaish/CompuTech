@@ -6,6 +6,7 @@
     <StartupObject>CompuTech.My.MyApplication</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <ImportedNamespaces>System.Data=False,System.Data.Common=False,System.Data.Odbc=False,System.Data.OleDb=False,System.Drawing=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,CompuTech=True</ImportedNamespaces>
   </PropertyGroup>
 
@@ -47,9 +48,77 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Update="Forms\Form1.Designer.vb">
+    <Compile Update="Forms\Main\Form1.Designer.vb">
       <DesignTime>True</DesignTime>
       <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Main\frmMdiMainScreen.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmMdiMainScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Main\frmSplashScreen.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Customers\frmAddNewCustomer.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmAddNewCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Customers\frmCustomerDGV.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmCustomerDGV.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Customers\frmCustomerInfo.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmCustomerInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Customers\frmDeleteCustomer.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmDeleteCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Customers\frmUpdateCustomer.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmUpdateCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Items\frmAddItem.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmAddItem.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Items\frmDeleteItem.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmDeleteItem.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Items\frmItemsInfo.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmItemsInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Items\frmUpdateItem.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmUpdateItem.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Orders\frmNewOrder.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmNewOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Orders\frmOrderInfo.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmOrderInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Orders\frmOrderRecipt.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmOrderRecipt.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Users\frmAddNewUser.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmAddNewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Users\frmUpdateUser.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmUpdateUser.vb</DependentUpon>
+    </Compile>
+    <Compile Update="Forms\Users\frmUsersInfo.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmUsersInfo.vb</DependentUpon>
     </Compile>
   </ItemGroup>
 
@@ -59,8 +128,59 @@
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Forms\Form1.resx">
+    <EmbeddedResource Update="Forms\Main\Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Main\frmMdiMainScreen.resx">
+      <DependentUpon>frmMdiMainScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Main\frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Customers\frmAddNewCustomer.resx">
+      <DependentUpon>frmAddNewCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Customers\frmCustomerDGV.resx">
+      <DependentUpon>frmCustomerDGV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Customers\frmCustomerInfo.resx">
+      <DependentUpon>frmCustomerInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Customers\frmDeleteCustomer.resx">
+      <DependentUpon>frmDeleteCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Customers\frmUpdateCustomer.resx">
+      <DependentUpon>frmUpdateCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Items\frmAddItem.resx">
+      <DependentUpon>frmAddItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Items\frmDeleteItem.resx">
+      <DependentUpon>frmDeleteItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Items\frmItemsInfo.resx">
+      <DependentUpon>frmItemsInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Items\frmUpdateItem.resx">
+      <DependentUpon>frmUpdateItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Orders\frmNewOrder.resx">
+      <DependentUpon>frmNewOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Orders\frmOrderInfo.resx">
+      <DependentUpon>frmOrderInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Orders\frmOrderRecipt.resx">
+      <DependentUpon>frmOrderRecipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Users\frmAddNewUser.resx">
+      <DependentUpon>frmAddNewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Users\frmUpdateUser.resx">
+      <DependentUpon>frmUpdateUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Forms\Users\frmUsersInfo.resx">
+      <DependentUpon>frmUsersInfo.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
 
